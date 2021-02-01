@@ -1,1 +1,1 @@
-# Real estate case study
+# Real estate case study in Python
